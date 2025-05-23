@@ -264,6 +264,7 @@ class MainApp extends StatelessWidget {
         ),
       ),
 
+      home: const LoginScreen(),
     );
   }
 }
